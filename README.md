@@ -1,5 +1,4 @@
-Introducing PlaylistPhantom!
---
+# Introducing PlaylistPhantom!
 A new way to find new music through simply saying what's on your mind!
 
 ![image](https://github.com/danielhuynh0/PlaylistPhantom/assets/101992027/32a123a4-ee59-4e07-8e2a-2d415e88172a)
