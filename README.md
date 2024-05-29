@@ -28,3 +28,5 @@ Building upon a project I previously created (_nlp-playlistgen_) which generated
 - run ```npm install``` to install all dependencies
 - finally, run ```npm run dev``` in the command line
 - use the application by visiting the link 'http://localhost:3000/' in your browser
+- HAVE FUN!
+![playlist2](https://github.com/danielhuynh0/PlaylistPhantom/assets/101992027/58c0c6e8-fc2f-4355-869f-c779d79283de)
